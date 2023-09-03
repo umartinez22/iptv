@@ -39,6 +39,20 @@ http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:24,EnerGeek Fanpop (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:30,Zol106 (720p) [Not 24/7]
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:8,CDN (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:8,Digital 15 (1080p)
+https://playback.akamaized.net/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media/27456795_10633798_lsiex0o2p67x3zfy0pd_1@2756000p.m3u8?dw=14400&ts=1693702800&hdnts=exp=1693878411~acl=/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media*~hmac=ceb253109f8d04185889029a060441f2863270e7d8c8d554c9f025008ecca075
+#EXTINF:8,Color Vision Canal 9
+https://stream-03.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RYzjrtk6MzGTOgWjTcbZM2JZsgytLTsyBzuGs1JxfCjkf)/dm/3/x7gy059/d/live-1.m3u8#cell=lsv4
+#EXTINF:8,Teleantillas Canal 2
+https://stream-04.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsRWg1B0y9k6JVlwTYqYCRCuPIDaptVDJiJ5Z8OlMuDiH)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
+#EXTINF:8,Antena 7
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
+#EXTINF:8,Canal 21
+https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/Canal21DO/Canal21DO1/chunks.m3u8
 #EXTINF:127,Cielo TV (1080p)
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:92,Teleuniverso
@@ -117,8 +131,6 @@ https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:30,Maimón TV Canal 3 (720p)
 https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
-#EXTINF:30,Zol106 (720p) [Not 24/7]
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:30,Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:30,Digital Visión 63 (720p)
@@ -153,10 +165,8 @@ https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:28,TV Plata (720p)
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
-
 #EXTINF:28,Hits 360 TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-
 #EXTINF:26,Las Estrellas Latin America (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:26,France 24 Español (1080p)
@@ -169,7 +179,6 @@ https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba1
 https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
 #EXTINF:24,Memorias TV (480p)
 https://mediacp.us:8081/8002/index.m3u8
-
 #EXTINF:24,Televisión del Este (720p)
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
 #EXTINF:23,DAN TV (720p) [Not 24/7]
@@ -196,7 +205,3 @@ https://paz.sytes.net:5443/live/streams/misioneltv.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:9,Oriental TV (360p)
 https://paz.sytes.net:5443/live/streams/orientaltv.m3u8
-#EXTINF:8,CDN (720p)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-#EXTINF:8,Digital 15 (1080p)
-https://playback.akamaized.net/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media/27456795_10633798_lsiex0o2p67x3zfy0pd_1@2756000p.m3u8?dw=14400&ts=1693702800&hdnts=exp=1693878411~acl=/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media*~hmac=ceb253109f8d04185889029a060441f2863270e7d8c8d554c9f025008ecca075
