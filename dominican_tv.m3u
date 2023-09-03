@@ -198,3 +198,5 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://paz.sytes.net:5443/live/streams/orientaltv.m3u8
 #EXTINF:8,CDN (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:8,Digital 15 (1080p)
+https://playback.akamaized.net/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media/27456795_10633798_lsiex0o2p67x3zfy0pd_1@2756000p.m3u8?dw=14400&ts=1693702800&hdnts=exp=1693878411~acl=/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media*~hmac=ceb253109f8d04185889029a060441f2863270e7d8c8d554c9f025008ecca075
