@@ -45,8 +45,12 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
 #EXTINF:8,Digital 15 (1080p)
 https://playback.akamaized.net/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media/27456795_10633798_lsiex0o2p67x3zfy0pd_1@2756000p.m3u8?dw=14400&ts=1693702800&hdnts=exp=1693878411~acl=/streams/27456795_10633798_lsiex0o2p67x3zfy0pd_1/media*~hmac=ceb253109f8d04185889029a060441f2863270e7d8c8d554c9f025008ecca075
+#EXTINF:8,Telemicro
+https://playback.akamaized.net/streams/27456795_10633780_lsidl5gqt2065ap84ul_1/media/27456795_10633780_lsidl5gqt2065ap84ul_1@2756000p.m3u8?dw=14400&ts=1693706400&hdnts=exp=1693881776~acl=/streams/27456795_10633780_lsidl5gqt2065ap84ul_1/media*~hmac=4552d4d145c84850cf042629cbe9e8aba701b7c4bf1172270f6ea9350be70534
 #EXTINF:8,Color Vision Canal 9
 https://stream-03.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RYzjrtk6MzGTOgWjTcbZM2JZsgytLTsyBzuGs1JxfCjkf)/dm/3/x7gy059/d/live-1.m3u8#cell=lsv4
+#EXTINF:8,Telecentro
+https://playback.akamaized.net/streams/27456795_10234042_lsi0ciw70d2px82s72q_1/media/27456795_10234042_lsi0ciw70d2px82s72q_1@2756000p.m3u8?dw=14400&ts=1693706400&hdnts=exp=1693881942~acl=/streams/27456795_10234042_lsi0ciw70d2px82s72q_1/media*~hmac=7e1e0f8f267623ef58731a5134d43b07da28dd0d995ad3163ad432d5beaecfea
 #EXTINF:8,Teleantillas Canal 2
 https://stream-04.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsRWg1B0y9k6JVlwTYqYCRCuPIDaptVDJiJ5Z8OlMuDiH)/dm/3/x8mwmvs/s/live-1.m3u8#cell=lnyc
 #EXTINF:8,Antena 7
