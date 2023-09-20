@@ -1,32 +1,36 @@
 #EXTM3U
 #EXTINF:1800,DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:96,PlanetaTV (Movie)
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:29,Telemax (1080p)
-https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineAccionSpain.es" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movies",Pluto TV Cine Accion Spain
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:96,PlanetaTV (Movie)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:76,Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:78,Pula TV (720p)
-https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
-#EXTINF:76,COCO TV (720p)
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:81,Haina Vision (720p)
-https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-#EXTINF:74,TV Visión (720p)
-https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+#EXTINF:60,SEO TV 4 Películas (1080p)
+https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:60,SEO TV 1 (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:60,Nexxo TV [Not 24/7]
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineAccionSpain.es" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movies",Pluto TV Cine Accion Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
 #EXTINF:30,LatinoKids (360p) [Not 24/7]
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:30,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:30,Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:76,COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:78,Pula TV (720p)
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+#EXTINF:29,Telemax (1080p)
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:81,Haina Vision (720p)
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:74,TV Visión (720p)
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:28,Onda TV (720p)
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:30,ORBIT TV (480p) [Geo-blocked]
@@ -103,10 +107,6 @@ https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 https://live.teledom.info:3242/live/teleradiohdlive.m3u8
 #EXTINF:63,TRA Noticias
 https://live.teledom.info:3625/live/tra45live.m3u8
-#EXTINF:60,SEO TV 4 Películas (1080p)
-https://live.seo.tv.bo/live/4SEO.m3u8
-#EXTINF:60,Nexxo TV [Not 24/7]
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:60,EnerGeek Retro (720p) [Not 24/7]
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:60,CGTN Español (576p)
